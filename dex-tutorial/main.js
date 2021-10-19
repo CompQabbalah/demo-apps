@@ -1,5 +1,5 @@
-Moralis.initialize("VHVdtVWLxbMAIqyD6ycfbFAk9cV1yhVw7U2RkKM6"); // Application id from moralis.io
-Moralis.serverURL = "https://edrq8aj6uilj.grandmoralis.com:2053/server"; //Server url from moralis.io
+Moralis.initialize(""); // Application id from moralis.io
+Moralis.serverURL = ""; //Server url from moralis.io
 
 let currentTrade = {};
 let currentSelectSide;
